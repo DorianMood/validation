@@ -1,0 +1,12 @@
+{
+  "name": "validation",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "git@github.com:DorianMood/validation.git",
+  "author": "Nikita Dolgoshein <nikita01051997@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.5"
+  }
+}
